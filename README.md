@@ -1,6 +1,10 @@
 # Capstone-OpenFoam
 OpenFoam samples and working code for capstone
 
+## Import Rear Wing Model
+
+To run the rear wing models, you will need to move the RW.stl file into the `constant/trisurface` folder
+
 ### Running OpenFOAM models
 
 Running the examples in this repo come in two forms, depending on the folder. Navigate to the 
