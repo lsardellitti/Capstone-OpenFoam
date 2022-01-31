@@ -58,6 +58,7 @@ relaxationFactors
     {
         "p.*"    0.3;
         "pa.*"   0.7;
+        alpha           0.1;
     }
     equations
     {
