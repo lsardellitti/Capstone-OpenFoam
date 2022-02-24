@@ -14,7 +14,7 @@ FoamFile
 }
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 
-application     adjointShapeOptimizationFoam;
+application     adjointOptimizationFoam;
 
 startFrom       startTime;
 
